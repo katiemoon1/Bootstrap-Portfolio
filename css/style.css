@@ -28,6 +28,8 @@ h1 {
 h3 {
     background-color: #4aaaa5;
     color: white;
+    width: 200px;
+    text-align: center;
 }
 
 .footer {
